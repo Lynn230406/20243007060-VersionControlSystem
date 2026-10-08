@@ -46,18 +46,28 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+<<<<<<< Updated upstream
             android:text="Log In"
             android:background="#000000"/>
 
+=======
+            android:background="#000000"
+            android:text="Log In" />
+>>>>>>> Stashed changes
 
         <Button
             android:id="@+id/cancelButton"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+<<<<<<< Updated upstream
             android:text="Cancel"
             android:background="#000000"/>
 
+=======
+            android:background="#000000"
+            android:text="Cancel"/>
+>>>>>>> Stashed changes
     </LinearLayout>
 
 
